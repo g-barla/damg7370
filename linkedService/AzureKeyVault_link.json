@@ -1,0 +1,12 @@
+{
+	"name": "AzureKeyVault_link",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "access my key vault from azure data factory",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://damgspring2025gb.vault.azure.net/"
+		}
+	}
+}
