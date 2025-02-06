@@ -13,7 +13,7 @@
 				"fileName": "Seattle_Pet_Licenses_Updated.tsv",
 				"fileSystem": "bronze"
 			},
-			"columnDelimiter": "\t",
+			"columnDelimiter": ",",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
 			"quoteChar": "\""
