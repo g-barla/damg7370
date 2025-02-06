@@ -5,12 +5,6 @@
 			"referenceName": "AzureDataLakeStorage_link",
 			"type": "LinkedServiceReference"
 		},
-		"parameters": {
-			"myFileName": {
-				"type": "string",
-				"defaultValue": "pet_lic_data.parquet"
-			}
-		},
 		"annotations": [],
 		"type": "Parquet",
 		"typeProperties": {
