@@ -8,6 +8,9 @@
 		"Snowflake1_password": {
 			"value": ""
 		},
+		"Snowflake_NYPD_password": {
+			"value": ""
+		},
 		"AzureBlobStorage1_sasUri": {
 			"value": ""
 		},
@@ -22,6 +25,12 @@
 		},
 		"Snowflake1_properties_typeProperties_role": {
 			"value": "TEMP_ROLE"
+		},
+		"Snowflake_NYPD_properties_typeProperties_database": {
+			"value": "NYPD_DB"
+		},
+		"Snowflake_NYPD_properties_typeProperties_role": {
+			"value": "NYPD_ROLE"
 		},
 		"containerUri": {
 			"value": ""
