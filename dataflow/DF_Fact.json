@@ -27,14 +27,14 @@
 				},
 				{
 					"dataset": {
-						"referenceName": "SnowflakeTable4",
+						"referenceName": "DateDim",
 						"type": "DatasetReference"
 					},
 					"name": "dateDim"
 				},
 				{
 					"dataset": {
-						"referenceName": "SnowflakeTable5",
+						"referenceName": "PetLicense_Fact",
 						"type": "DatasetReference"
 					},
 					"name": "factDim"
@@ -43,7 +43,7 @@
 			"sinks": [
 				{
 					"dataset": {
-						"referenceName": "SnowflakeTable5",
+						"referenceName": "PetLicense_Fact",
 						"type": "DatasetReference"
 					},
 					"name": "sink1"

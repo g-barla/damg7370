@@ -1,5 +1,5 @@
 {
-	"name": "SnowflakeTable4",
+	"name": "DateDim",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "Snowflake1",
