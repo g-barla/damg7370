@@ -20,7 +20,7 @@
 				},
 				{
 					"dataset": {
-						"referenceName": "SnowflakeTable3",
+						"referenceName": "Breed_Dim",
 						"type": "DatasetReference"
 					},
 					"name": "breedDim"

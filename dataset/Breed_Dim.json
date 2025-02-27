@@ -1,5 +1,5 @@
 {
-	"name": "SnowflakeTable3",
+	"name": "Breed_Dim",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "Snowflake1",

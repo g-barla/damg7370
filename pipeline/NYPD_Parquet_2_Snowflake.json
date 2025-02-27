@@ -279,7 +279,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "SnowflakeTable2",
+						"referenceName": "NYPDArrests_Facts",
 						"type": "DatasetReference"
 					}
 				]

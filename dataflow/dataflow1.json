@@ -15,7 +15,7 @@
 			"sinks": [
 				{
 					"dataset": {
-						"referenceName": "SnowflakeTable2",
+						"referenceName": "NYPDArrests_Facts",
 						"type": "DatasetReference"
 					},
 					"name": "sink1"

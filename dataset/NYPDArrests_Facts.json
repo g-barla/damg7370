@@ -1,5 +1,5 @@
 {
-	"name": "SnowflakeTable2",
+	"name": "NYPDArrests_Facts",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "Snowflake_NYPD",
