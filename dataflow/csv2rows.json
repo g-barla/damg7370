@@ -9,7 +9,7 @@
 						"referenceName": "ds_nameBasics",
 						"type": "DatasetReference"
 					},
-					"name": "dsnameBasics"
+					"name": "dsnamebasics"
 				}
 			],
 			"sinks": [],
@@ -27,8 +27,8 @@
 				"     ),",
 				"     allowSchemaDrift: true,",
 				"     validateSchema: false,",
-				"     ignoreNoFilesFound: false) ~> dsnameBasics",
-				"dsnameBasics derive({} = ERROR_FUNCTION('')) ~> derivedColumn1"
+				"     ignoreNoFilesFound: false) ~> dsnamebasics",
+				"dsnamebasics derive({} = ERROR_FUNCTION('')) ~> derivedColumn1"
 			]
 		}
 	}
